@@ -29,4 +29,4 @@ npm start
 ## 🔥 Our Published Paper Link:
 <a href="https://ijarsct.co.in/Dec3i2.html">Secure and Efficient Crop Tracking in Agriculture using Block chain</a>
 
-<a href="https://ijarcce.com/papers/crop-agriculture-supply-chain-integration-with-blockchain/"></a>
+<a href="https://ijarcce.com/papers/crop-agriculture-supply-chain-integration-with-blockchain/">Crop agriculture Supply chain integration with blockchain</a>
