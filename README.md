@@ -36,7 +36,7 @@ npm start
 <table>
 <tr>
 <td align="center"><a href="https://github.com/SapnaMadhavai"> Sapna Madhavai</a></td>
-  <td align="center"><a href="https://github.com/narendrakadlag"> Narendra Kadlag</a></td>
+  <td align="center"><a href="https://github.com/narendrakadlag"> <img src="https://avatars.githubusercontent.com/u/121725155?v=4" width="100px;" alt=""/><br /><sub><b>Narendra Kadlag</b></sub></a><br /></a></td>
 </tr>
   
 </table>
