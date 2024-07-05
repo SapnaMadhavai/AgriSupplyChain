@@ -35,8 +35,8 @@ npm start
 ## :busts_in_silhouette: Contributors
 <table>
 <tr>
-<td align="center"><a href="https://github.com/SapnaMadhavai"> Sapna Madhavai</a></tr>
-  
+<td align="center"><a href="https://github.com/SapnaMadhavai"> Sapna Madhavai</a></td>
+  <td align="center"><a href="https://github.com/narendrakadlag"> Narendra Kadlag</a></td>
 </tr>
   
 </table>
