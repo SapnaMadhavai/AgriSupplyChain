@@ -37,6 +37,7 @@ npm start
 <tr>
 <td align="center"><a href="https://github.com/SapnaMadhavai"><img src="https://avatars.githubusercontent.com/u/136884694?v=4" width="100px;" alt=""/><br /> Sapna Madhavai</a></td>
   <td align="center"><a href="https://github.com/narendrakadlag"> <img src="https://avatars.githubusercontent.com/u/121725155?v=4" width="100px;" alt=""/><br /><sub><b>Narendra Kadlag</b></sub></a><br /></a></td>
+  <td align="center"><a href="https://github.com/makarandlagad75"> <img src="https://avatars.githubusercontent.com/u/116442144?v=4" width="100px;" alt=""/><br /><sub><b>Narendra Kadlag</b></sub></a><br /></a></td>
 </tr>
   
 </table>
